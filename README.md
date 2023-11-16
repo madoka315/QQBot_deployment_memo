@@ -46,3 +46,14 @@ pnpm install --filter=ws-plugin
     maxReconnectAttempts: 0
     uin: bot号码
 ```
+
+# 官方仓库地址：
+- unidbg-fetch-qsign 已删
+- go-cqhttp：[https://github.com/Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+- LiteloaderQQNT：[https://github.com/LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+- Chronocat：已删
+- OpenShamrock：[https://github.com/whitechi73/OpenShamrock](https://github.com/whitechi73/OpenShamrock)
+- TRSS-Yunzai：[https://github.com/TimeRainStarSky/Yunzai](https://github.com/TimeRainStarSky/Yunzai)
+- ws-plugin：[https://github.com/xiaoye12123/ws-plugin](https://github.com/xiaoye12123/ws-plugin)
+- HoshinoBot：[https://github.com/Ice9Coffee/HoshinoBot](https://github.com/Ice9Coffee/HoshinoBot)
+- yobot：[https://github.com/yuudi/yobot](https://github.com/yuudi/yobot)
