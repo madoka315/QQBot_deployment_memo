@@ -1,4 +1,10 @@
 # QQ机器人部署备忘
+## 2026.9
+增加部署方式的可选项:
+
+- 基于NTQQ协议端SnowLuma
+
+此阶段考虑NapCatQQ或LLOnebot(已命名为LuckyLilliaBot)或SnowLuma方式。
 ## 2024.5
 相比2023.11，增加一些部署方式的可选项。
 目前部署qq机器人方式总结为：
@@ -66,7 +72,7 @@ pnpm install --filter=ws-plugin
 - go-cqhttp：[https://github.com/Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 - LiteloaderQQNT：[https://github.com/LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) 
 - Chronocat：[https://github.com/chrononeko/chronocat](https://github.com/chrononeko/chronocat)
-- LLOneBot: [https://github.com/LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot)
+- LLOneBot/LuckyLilliaBot: [https://github.com/LLOneBot/LuckyLilliaBot](https://github.com/LLOneBot/LuckyLilliaBot)
 - NapCatQQ: [https://github.com/NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
 - OpenShamrock：[https://github.com/whitechi73/OpenShamrock](https://github.com/whitechi73/OpenShamrock)
 - gensokyo: [https://github.com/hoshinonyaruko/gensokyo](https://github.com/hoshinonyaruko/gensokyo)
@@ -75,3 +81,4 @@ pnpm install --filter=ws-plugin
 - ws-plugin：[https://github.com/xiaoye12123/ws-plugin](https://github.com/xiaoye12123/ws-plugin)
 - HoshinoBot：[https://github.com/Ice9Coffee/HoshinoBot](https://github.com/Ice9Coffee/HoshinoBot)
 - yobot：[https://github.com/yuudi/yobot](https://github.com/yuudi/yobot)
+- SnowLuma: [https://github.com/SnowLuma/SnowLuma](https://github.com/SnowLuma/SnowLuma)
